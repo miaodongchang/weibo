@@ -1,0 +1,1 @@
+这篇讲maven的文章不错：http://blog.csdn.net/u012450329/article/details/52668800
