@@ -1,0 +1,5 @@
+var a = /^(([1-9]\d*(\.\d{1,2})?)|(0\.\d{1,2}))$/;
+    if (!a.test(amounts) || parseFloat(amounts) <= parseFloat(0)) {
+        alert("输入金额格式不正确");
+        return false;
+    }
