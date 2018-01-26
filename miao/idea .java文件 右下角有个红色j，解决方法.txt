@@ -1,0 +1,1 @@
+不可编译，File里打开project structure找到Modules，其中有个Sources，把右边第一个x号(关闭按钮)点击，去掉Root路径后，重新添加
