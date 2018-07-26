@@ -1,5 +1,7 @@
 var a = /^(([1-9]\d*(\.\d{1,2})?)|(0\.\d{1,2}))$/;
     if (!a.test(amounts) || parseFloat(amounts) <= parseFloat(0)) {
-        alert("ÊäÈë½ğ¶î¸ñÊ½²»ÕıÈ·");
+        alert("è¾“å…¥é‡‘é¢æ ¼å¼ä¸æ­£ç¡®");
         return false;
     }
+	
+	//æ˜¯å—!?
